@@ -1,0 +1,6 @@
+C:\Users\Felis\Desktop\Accending Array\Accending Array\bin\Debug\Accending Array.exe.config
+C:\Users\Felis\Desktop\Accending Array\Accending Array\obj\Debug\Accending Array.csprojResolveAssemblyReference.cache
+C:\Users\Felis\Desktop\Accending Array\Accending Array\bin\Debug\Accending Array.exe
+C:\Users\Felis\Desktop\Accending Array\Accending Array\bin\Debug\Accending Array.pdb
+C:\Users\Felis\Desktop\Accending Array\Accending Array\obj\Debug\Accending Array.exe
+C:\Users\Felis\Desktop\Accending Array\Accending Array\obj\Debug\Accending Array.pdb
